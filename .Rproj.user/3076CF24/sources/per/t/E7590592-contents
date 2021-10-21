@@ -1,0 +1,71 @@
+
+
+# 02 Análisis de la distribución de mujeres según ingreso
+
+
+
+
+#*****************************************************************************
+# 1. Activar librerías ---------------------------------------------------------------
+#*****************************************************************************
+
+library(tidyverse)
+library(installr)
+
+updateR()
+
+
+#*****************************************************************************
+# 2. Importar datos -------------------------------------------------------------
+#*****************************************************************************
+
+# Base de sueldos de servidores públicos para agosto de 2021
+df_agosto_sex <- read.csv(file = "./data/base_clasificada.csv", 
+                          encoding = "UTF-8", row.names = "X")
+
+
+
+#*****************************************************************************
+# Análisis por nivel de ingreso -------------------------------------------
+#*****************************************************************************
+
+df_agosto_sex$niv_sueldo <- cut_interval(x = df_agosto_sex$SUELDO_TABULAR_BRUTO, n = 10)
+
+
+table(df_agosto_sex$niv_sueldo)
+
+
+df_agosto_sex2 <- df_agosto_sex %>% 
+    mutate(niv_sueldo = factor(niv_sueldo, labels = seq(1,10)))
+
+
+df_niv_sueldo <- df_agosto_sex2 %>% 
+    filter(niv_sueldo == 1)
+
+# Paso 1, volverlo formato long
+# Paso 2, 
+
+
+library(dplyr)
+library(hrbrthemes)
+library(tidyverse)
+
+# Build dataset with different distributions
+data <- data.frame(type = c( rep("variable 1", 1000), rep("variable 2", 1000) ),
+    value = c( rnorm(1000), rnorm(1000, mean=4) ))
+
+# Represent it
+p <- data %>%
+    ggplot( aes(x=value, fill=type)) +
+    geom_histogram( color="#e9ecef", alpha=0.6, position = 'identity') +
+    scale_fill_manual(values=c("#69b3a2", "#404080")) +
+    theme_ipsum() +
+    labs(fill="")
+
+p
+
+
+
+
+
+

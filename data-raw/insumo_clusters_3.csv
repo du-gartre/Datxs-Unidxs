@@ -1,0 +1,751 @@
+"","DESC_UNIDAD_RESPONSABLE","sex","niv_sueldo","n()"
+"1","Agencia de Atención Animal De La Ciudad De México","H",1,25
+"2","Agencia de Atención Animal De La Ciudad De México","H",2,3
+"3","Agencia de Atención Animal De La Ciudad De México","H",5,1
+"4","Agencia de Atención Animal De La Ciudad De México","M",1,44
+"5","Agencia de Atención Animal De La Ciudad De México","M",2,2
+"6","Agencia de Atención Animal De La Ciudad De México",NA,1,3
+"7","Agencia de Atención Animal De La Ciudad De México",NA,2,1
+"8","Agencia de Protección Sanitaria","H",1,26
+"9","Agencia de Protección Sanitaria","H",2,18
+"10","Agencia de Protección Sanitaria","H",3,4
+"11","Agencia de Protección Sanitaria","H",5,1
+"12","Agencia de Protección Sanitaria","M",1,22
+"13","Agencia de Protección Sanitaria","M",2,20
+"14","Agencia de Protección Sanitaria","M",3,1
+"15","Agencia de Protección Sanitaria",NA,1,2
+"16","Agencia de Protección Sanitaria",NA,2,1
+"17","Agencia Digital de Innovación Pública (ADIP)","H",1,242
+"18","Agencia Digital de Innovación Pública (ADIP)","H",2,79
+"19","Agencia Digital de Innovación Pública (ADIP)","H",3,21
+"20","Agencia Digital de Innovación Pública (ADIP)","H",4,2
+"21","Agencia Digital de Innovación Pública (ADIP)","H",5,4
+"22","Agencia Digital de Innovación Pública (ADIP)","H",6,1
+"23","Agencia Digital de Innovación Pública (ADIP)","M",1,314
+"24","Agencia Digital de Innovación Pública (ADIP)","M",2,64
+"25","Agencia Digital de Innovación Pública (ADIP)","M",3,7
+"26","Agencia Digital de Innovación Pública (ADIP)","M",4,6
+"27","Agencia Digital de Innovación Pública (ADIP)","M",5,1
+"28","Agencia Digital de Innovación Pública (ADIP)",NA,1,15
+"29","Agencia Digital de Innovación Pública (ADIP)",NA,2,2
+"30","Agencia Digital de Innovación Pública (ADIP)",NA,3,3
+"31","Agencia Digital de Innovación Pública (ADIP)",NA,4,1
+"32","Alcaldía Álvaro Obregón","H",1,3522
+"33","Alcaldía Álvaro Obregón","H",2,78
+"34","Alcaldía Álvaro Obregón","H",3,48
+"35","Alcaldía Álvaro Obregón","H",5,8
+"36","Alcaldía Álvaro Obregón","H",6,1
+"37","Alcaldía Álvaro Obregón","M",1,2212
+"38","Alcaldía Álvaro Obregón","M",2,72
+"39","Alcaldía Álvaro Obregón","M",3,29
+"40","Alcaldía Álvaro Obregón","M",5,5
+"41","Alcaldía Álvaro Obregón",NA,1,106
+"42","Alcaldía Álvaro Obregón",NA,2,6
+"43","Alcaldía Álvaro Obregón",NA,3,3
+"44","Alcaldía Álvaro Obregón",NA,5,1
+"45","Alcaldía Azcapotzalco","H",1,2711
+"46","Alcaldía Azcapotzalco","H",2,60
+"47","Alcaldía Azcapotzalco","H",3,25
+"48","Alcaldía Azcapotzalco","H",4,3
+"49","Alcaldía Azcapotzalco","H",5,5
+"50","Alcaldía Azcapotzalco","M",1,1980
+"51","Alcaldía Azcapotzalco","M",2,41
+"52","Alcaldía Azcapotzalco","M",3,21
+"53","Alcaldía Azcapotzalco","M",4,1
+"54","Alcaldía Azcapotzalco","M",5,3
+"55","Alcaldía Azcapotzalco",NA,1,108
+"56","Alcaldía Azcapotzalco",NA,2,2
+"57","Alcaldía Azcapotzalco",NA,3,2
+"58","Alcaldía Azcapotzalco",NA,5,1
+"59","Alcaldía Benito Juárez","H",1,3480
+"60","Alcaldía Benito Juárez","H",2,94
+"61","Alcaldía Benito Juárez","H",3,27
+"62","Alcaldía Benito Juárez","H",4,2
+"63","Alcaldía Benito Juárez","H",5,4
+"64","Alcaldía Benito Juárez","H",6,1
+"65","Alcaldía Benito Juárez","M",1,2132
+"66","Alcaldía Benito Juárez","M",2,63
+"67","Alcaldía Benito Juárez","M",3,7
+"68","Alcaldía Benito Juárez","M",5,2
+"69","Alcaldía Benito Juárez",NA,1,135
+"70","Alcaldía Benito Juárez",NA,2,3
+"71","Alcaldía Benito Juárez",NA,3,2
+"72","Alcaldía Coyoacán","H",1,3762
+"73","Alcaldía Coyoacán","H",2,100
+"74","Alcaldía Coyoacán","H",3,18
+"75","Alcaldía Coyoacán","H",4,1
+"76","Alcaldía Coyoacán","H",5,8
+"77","Alcaldía Coyoacán","H",6,1
+"78","Alcaldía Coyoacán","M",1,2589
+"79","Alcaldía Coyoacán","M",2,87
+"80","Alcaldía Coyoacán","M",3,6
+"81","Alcaldía Coyoacán","M",4,2
+"82","Alcaldía Coyoacán","M",5,1
+"83","Alcaldía Coyoacán",NA,1,149
+"84","Alcaldía Coyoacán",NA,2,8
+"85","Alcaldía Cuajimalpa De Morelos","H",1,2117
+"86","Alcaldía Cuajimalpa De Morelos","H",2,79
+"87","Alcaldía Cuajimalpa De Morelos","H",3,16
+"88","Alcaldía Cuajimalpa De Morelos","H",4,1
+"89","Alcaldía Cuajimalpa De Morelos","H",5,3
+"90","Alcaldía Cuajimalpa De Morelos","H",6,1
+"91","Alcaldía Cuajimalpa De Morelos","M",1,1946
+"92","Alcaldía Cuajimalpa De Morelos","M",2,31
+"93","Alcaldía Cuajimalpa De Morelos","M",3,4
+"94","Alcaldía Cuajimalpa De Morelos","M",5,2
+"95","Alcaldía Cuajimalpa De Morelos",NA,1,72
+"96","Alcaldía Cuajimalpa De Morelos",NA,2,4
+"97","Alcaldía Cuajimalpa De Morelos",NA,3,1
+"98","Alcaldía Cuauhtémoc","H",1,5184
+"99","Alcaldía Cuauhtémoc","H",2,113
+"100","Alcaldía Cuauhtémoc","H",3,15
+"101","Alcaldía Cuauhtémoc","H",5,6
+"102","Alcaldía Cuauhtémoc","H",6,1
+"103","Alcaldía Cuauhtémoc","M",1,3675
+"104","Alcaldía Cuauhtémoc","M",2,96
+"105","Alcaldía Cuauhtémoc","M",3,15
+"106","Alcaldía Cuauhtémoc","M",5,3
+"107","Alcaldía Cuauhtémoc",NA,1,177
+"108","Alcaldía Cuauhtémoc",NA,2,4
+"109","Alcaldía Cuauhtémoc",NA,3,1
+"110","Alcaldía Gustavo A. Madero","H",1,5708
+"111","Alcaldía Gustavo A. Madero","H",2,116
+"112","Alcaldía Gustavo A. Madero","H",3,55
+"113","Alcaldía Gustavo A. Madero","H",4,12
+"114","Alcaldía Gustavo A. Madero","H",5,6
+"115","Alcaldía Gustavo A. Madero","H",6,1
+"116","Alcaldía Gustavo A. Madero","M",1,4231
+"117","Alcaldía Gustavo A. Madero","M",2,98
+"118","Alcaldía Gustavo A. Madero","M",3,22
+"119","Alcaldía Gustavo A. Madero","M",4,5
+"120","Alcaldía Gustavo A. Madero","M",5,2
+"121","Alcaldía Gustavo A. Madero",NA,1,193
+"122","Alcaldía Gustavo A. Madero",NA,2,2
+"123","Alcaldía Iztacalco","H",1,2944
+"124","Alcaldía Iztacalco","H",2,81
+"125","Alcaldía Iztacalco","H",3,14
+"126","Alcaldía Iztacalco","H",4,2
+"127","Alcaldía Iztacalco","H",5,5
+"128","Alcaldía Iztacalco","H",6,1
+"129","Alcaldía Iztacalco","M",1,2217
+"130","Alcaldía Iztacalco","M",2,52
+"131","Alcaldía Iztacalco","M",3,8
+"132","Alcaldía Iztacalco","M",4,1
+"133","Alcaldía Iztacalco","M",5,1
+"134","Alcaldía Iztacalco",NA,1,118
+"135","Alcaldía Iztacalco",NA,2,3
+"136","Alcaldía Iztapalapa","H",1,6570
+"137","Alcaldía Iztapalapa","H",2,213
+"138","Alcaldía Iztapalapa","H",3,36
+"139","Alcaldía Iztapalapa","H",5,6
+"140","Alcaldía Iztapalapa","M",1,4932
+"141","Alcaldía Iztapalapa","M",2,139
+"142","Alcaldía Iztapalapa","M",3,23
+"143","Alcaldía Iztapalapa","M",4,2
+"144","Alcaldía Iztapalapa","M",5,2
+"145","Alcaldía Iztapalapa","M",6,1
+"146","Alcaldía Iztapalapa",NA,1,240
+"147","Alcaldía Iztapalapa",NA,2,12
+"148","Alcaldía Iztapalapa",NA,3,3
+"149","Alcaldía Iztapalapa",NA,4,1
+"150","Alcaldía La Magdalena Contreras","H",1,1997
+"151","Alcaldía La Magdalena Contreras","H",2,89
+"152","Alcaldía La Magdalena Contreras","H",3,16
+"153","Alcaldía La Magdalena Contreras","H",5,5
+"154","Alcaldía La Magdalena Contreras","M",1,1571
+"155","Alcaldía La Magdalena Contreras","M",2,56
+"156","Alcaldía La Magdalena Contreras","M",3,6
+"157","Alcaldía La Magdalena Contreras","M",5,3
+"158","Alcaldía La Magdalena Contreras","M",6,1
+"159","Alcaldía La Magdalena Contreras",NA,1,67
+"160","Alcaldía La Magdalena Contreras",NA,2,2
+"161","Alcaldía Miguel Hidalgo","H",1,3023
+"162","Alcaldía Miguel Hidalgo","H",2,194
+"163","Alcaldía Miguel Hidalgo","H",3,25
+"164","Alcaldía Miguel Hidalgo","H",4,7
+"165","Alcaldía Miguel Hidalgo","H",5,3
+"166","Alcaldía Miguel Hidalgo","H",6,1
+"167","Alcaldía Miguel Hidalgo","M",1,1744
+"168","Alcaldía Miguel Hidalgo","M",2,115
+"169","Alcaldía Miguel Hidalgo","M",3,23
+"170","Alcaldía Miguel Hidalgo","M",4,1
+"171","Alcaldía Miguel Hidalgo",NA,1,67
+"172","Alcaldía Miguel Hidalgo",NA,2,12
+"173","Alcaldía Miguel Hidalgo",NA,3,2
+"174","Alcaldía Miguel Hidalgo",NA,5,1
+"175","Alcaldía Milpa Alta","H",1,2045
+"176","Alcaldía Milpa Alta","H",2,78
+"177","Alcaldía Milpa Alta","H",3,10
+"178","Alcaldía Milpa Alta","H",5,3
+"179","Alcaldía Milpa Alta","H",6,1
+"180","Alcaldía Milpa Alta","M",1,1555
+"181","Alcaldía Milpa Alta","M",2,35
+"182","Alcaldía Milpa Alta","M",3,9
+"183","Alcaldía Milpa Alta","M",5,2
+"184","Alcaldía Milpa Alta",NA,1,105
+"185","Alcaldía Milpa Alta",NA,2,3
+"186","Alcaldía Milpa Alta",NA,5,1
+"187","Alcaldía Tláhuac","H",1,2505
+"188","Alcaldía Tláhuac","H",2,82
+"189","Alcaldía Tláhuac","H",3,18
+"190","Alcaldía Tláhuac","H",4,1
+"191","Alcaldía Tláhuac","H",5,4
+"192","Alcaldía Tláhuac","H",6,1
+"193","Alcaldía Tláhuac","M",1,2261
+"194","Alcaldía Tláhuac","M",2,54
+"195","Alcaldía Tláhuac","M",3,6
+"196","Alcaldía Tláhuac","M",4,1
+"197","Alcaldía Tláhuac","M",5,3
+"198","Alcaldía Tláhuac",NA,1,98
+"199","Alcaldía Tláhuac",NA,2,3
+"200","Alcaldía Tlalpan","H",1,2917
+"201","Alcaldía Tlalpan","H",2,103
+"202","Alcaldía Tlalpan","H",3,15
+"203","Alcaldía Tlalpan","H",4,4
+"204","Alcaldía Tlalpan","H",5,4
+"205","Alcaldía Tlalpan","M",1,2014
+"206","Alcaldía Tlalpan","M",2,71
+"207","Alcaldía Tlalpan","M",3,16
+"208","Alcaldía Tlalpan","M",5,5
+"209","Alcaldía Tlalpan","M",6,1
+"210","Alcaldía Tlalpan",NA,1,114
+"211","Alcaldía Tlalpan",NA,2,8
+"212","Alcaldía Venustiano Carranza","H",1,4460
+"213","Alcaldía Venustiano Carranza","H",2,133
+"214","Alcaldía Venustiano Carranza","H",3,15
+"215","Alcaldía Venustiano Carranza","H",4,4
+"216","Alcaldía Venustiano Carranza","H",5,5
+"217","Alcaldía Venustiano Carranza","H",6,1
+"218","Alcaldía Venustiano Carranza","M",1,3587
+"219","Alcaldía Venustiano Carranza","M",2,85
+"220","Alcaldía Venustiano Carranza","M",3,8
+"221","Alcaldía Venustiano Carranza","M",4,2
+"222","Alcaldía Venustiano Carranza","M",5,1
+"223","Alcaldía Venustiano Carranza",NA,1,139
+"224","Alcaldía Venustiano Carranza",NA,2,3
+"225","Alcaldía Xochimilco","H",1,3245
+"226","Alcaldía Xochimilco","H",2,80
+"227","Alcaldía Xochimilco","H",3,10
+"228","Alcaldía Xochimilco","H",5,5
+"229","Alcaldía Xochimilco","H",6,1
+"230","Alcaldía Xochimilco","M",1,2126
+"231","Alcaldía Xochimilco","M",2,57
+"232","Alcaldía Xochimilco","M",3,4
+"233","Alcaldía Xochimilco","M",4,1
+"234","Alcaldía Xochimilco","M",5,3
+"235","Alcaldía Xochimilco",NA,1,149
+"236","Alcaldía Xochimilco",NA,2,2
+"237","Alcaldía Xochimilco",NA,3,3
+"238","Autoridad Del Centro Histórico","H",1,21
+"239","Autoridad Del Centro Histórico","H",2,7
+"240","Autoridad Del Centro Histórico","H",3,1
+"241","Autoridad Del Centro Histórico","H",4,2
+"242","Autoridad Del Centro Histórico","M",1,23
+"243","Autoridad Del Centro Histórico","M",2,4
+"244","Autoridad Del Centro Histórico",NA,1,1
+"245","Autoridad Del Centro Histórico",NA,4,1
+"246","Autoridad Del Centro Histórico",NA,5,1
+"247","Caja de previsión de la policía auxiliar","H",1,52
+"248","Caja de previsión de la policía auxiliar","H",2,14
+"249","Caja de previsión de la policía auxiliar","H",3,3
+"250","Caja de previsión de la policía auxiliar","H",5,1
+"251","Caja de previsión de la policía auxiliar","M",1,58
+"252","Caja de previsión de la policía auxiliar","M",2,8
+"253","Caja de previsión de la policía auxiliar",NA,1,4
+"254","Caja de previsión de la policía auxiliar",NA,2,1
+"255","Caja de previsión de la policía preventiva","H",1,21
+"256","Caja de previsión de la policía preventiva","M",1,12
+"257","Caja de previsión de la policía preventiva",NA,1,3
+"258","Caja de previsión para trabajadores a lista de raya","H",1,27
+"259","Caja de previsión para trabajadores a lista de raya","M",1,23
+"260","Caja de previsión para trabajadores a lista de raya",NA,1,2
+"261","Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano (C5)","H",1,175
+"262","Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano (C5)","H",2,51
+"263","Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano (C5)","H",3,7
+"264","Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano (C5)","H",5,2
+"265","Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano (C5)","H",6,1
+"266","Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano (C5)","M",1,233
+"267","Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano (C5)","M",2,28
+"268","Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano (C5)","M",3,3
+"269","Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano (C5)","M",4,1
+"270","Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano (C5)","M",5,1
+"271","Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano (C5)",NA,1,13
+"272","Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano (C5)",NA,2,2
+"273","Comisión de Búsqueda de Personas de La Ciudad De México","H",2,2
+"274","Comisión de Búsqueda de Personas de La Ciudad De México","H",3,1
+"275","Comisión de Búsqueda de Personas de La Ciudad De México","M",1,2
+"276","Comisión de Búsqueda de Personas de La Ciudad De México","M",2,2
+"277","Comisión de Búsqueda de Personas de La Ciudad De México","M",3,1
+"278","Comisión de Búsqueda de Personas de La Ciudad De México",NA,5,1
+"279","Consejería Jurídica y De Servicios Legales","H",1,1537
+"280","Consejería Jurídica y De Servicios Legales","H",2,621
+"281","Consejería Jurídica y De Servicios Legales","H",3,7
+"282","Consejería Jurídica y De Servicios Legales","H",4,4
+"283","Consejería Jurídica y De Servicios Legales","H",5,3
+"284","Consejería Jurídica y De Servicios Legales","H",6,1
+"285","Consejería Jurídica y De Servicios Legales","M",1,1932
+"286","Consejería Jurídica y De Servicios Legales","M",2,541
+"287","Consejería Jurídica y De Servicios Legales","M",3,9
+"288","Consejería Jurídica y De Servicios Legales","M",5,2
+"289","Consejería Jurídica y De Servicios Legales",NA,1,92
+"290","Consejería Jurídica y De Servicios Legales",NA,2,32
+"291","Consejería Jurídica y De Servicios Legales",NA,3,2
+"292","Consejo de Evaluación Del Desarrollo Social","H",1,4
+"293","Consejo de Evaluación Del Desarrollo Social","H",2,12
+"294","Consejo de Evaluación Del Desarrollo Social","M",1,3
+"295","Consejo de Evaluación Del Desarrollo Social","M",2,8
+"296","Consejo Para Prevenir Y Eliminar La Discriminación","H",1,2
+"297","Consejo Para Prevenir Y Eliminar La Discriminación","M",1,1
+"298","Consejo Para Prevenir Y Eliminar La Discriminación",NA,1,1
+"299","Escuela de Administración Pública","H",1,6
+"300","Escuela de Administración Pública","H",2,4
+"301","Escuela de Administración Pública","M",1,5
+"302","Escuela de Administración Pública","M",2,5
+"303","Fideicomiso Educación Garantizada","H",1,36
+"304","Fideicomiso Educación Garantizada","H",2,14
+"305","Fideicomiso Educación Garantizada","H",3,1
+"306","Fideicomiso Educación Garantizada","M",1,58
+"307","Fideicomiso Educación Garantizada","M",2,10
+"308","Fideicomiso Educación Garantizada","M",3,5
+"309","Fideicomiso Educación Garantizada","M",5,1
+"310","Fideicomiso Educación Garantizada",NA,1,2
+"311","Fideicomiso Educación Garantizada",NA,2,3
+"312","Fideicomiso Museo De Arte Popular Mexicano","H",1,34
+"313","Fideicomiso Museo De Arte Popular Mexicano","H",2,6
+"314","Fideicomiso Museo De Arte Popular Mexicano","M",1,19
+"315","Fideicomiso Museo De Arte Popular Mexicano","M",2,2
+"316","Fideicomiso Museo De Arte Popular Mexicano",NA,1,1
+"317","Fideicomiso Museo De Arte Popular Mexicano",NA,5,1
+"318","Fideicomiso Museo Del Estanquillo","H",1,1
+"319","Fideicomiso Museo Del Estanquillo","H",2,2
+"320","Fideicomiso Museo Del Estanquillo","H",3,2
+"321","Fideicomiso Museo Del Estanquillo","M",1,3
+"322","Fideicomiso Museo Del Estanquillo","M",2,1
+"323","Fideicomiso Museo Del Estanquillo",NA,3,1
+"324","Fideicomiso Museo Del Estanquillo",NA,5,1
+"325","Fideicomiso Para La Promoción Y Desarrollo Del Cine Mexicano","H",2,1
+"326","Fideicomiso Para La Promoción Y Desarrollo Del Cine Mexicano","H",5,1
+"327","Fideicomiso Para La Promoción Y Desarrollo Del Cine Mexicano","M",2,1
+"328","Fideicomiso Para La Promoción Y Desarrollo Del Cine Mexicano","M",3,1
+"329","Fideicomiso para la Reconstrucción Integral de la Ciudad de México","H",2,2
+"330","Fideicomiso para la Reconstrucción Integral de la Ciudad de México","H",4,1
+"331","Fideicomiso para la Reconstrucción Integral de la Ciudad de México","M",2,2
+"332","Fiscalía General De Justicia","H",1,3812
+"333","Fiscalía General De Justicia","H",2,4493
+"334","Fiscalía General De Justicia","H",3,375
+"335","Fiscalía General De Justicia","H",4,3
+"336","Fiscalía General De Justicia","H",5,44
+"337","Fiscalía General De Justicia","H",6,6
+"338","Fiscalía General De Justicia","M",1,4289
+"339","Fiscalía General De Justicia","M",2,2191
+"340","Fiscalía General De Justicia","M",3,256
+"341","Fiscalía General De Justicia","M",4,4
+"342","Fiscalía General De Justicia","M",5,23
+"343","Fiscalía General De Justicia","M",6,6
+"344","Fiscalía General De Justicia",NA,1,207
+"345","Fiscalía General De Justicia",NA,2,174
+"346","Fiscalía General De Justicia",NA,3,16
+"347","Fiscalía General De Justicia",NA,5,4
+"348","Fondo de desarrollo económico del distrito federal","H",1,4
+"349","Fondo de desarrollo económico del distrito federal","H",2,1
+"350","Fondo de desarrollo económico del distrito federal","M",1,4
+"351","Fondo para la Atención y Apoyo a las Víctimas del Delito","H",1,12
+"352","Fondo para la Atención y Apoyo a las Víctimas del Delito","H",3,2
+"353","Fondo para la Atención y Apoyo a las Víctimas del Delito","H",5,1
+"354","Fondo para la Atención y Apoyo a las Víctimas del Delito","M",1,16
+"355","Fondo para la Atención y Apoyo a las Víctimas del Delito","M",2,1
+"356","Fondo para la Atención y Apoyo a las Víctimas del Delito","M",3,2
+"357","Fondo para la Atención y Apoyo a las Víctimas del Delito",NA,1,2
+"358","Fondo para la Atención y Apoyo a las Víctimas del Delito",NA,3,1
+"359","Heroico Cuerpo De Bomberos","H",1,1721
+"360","Heroico Cuerpo De Bomberos","H",2,39
+"361","Heroico Cuerpo De Bomberos","H",3,5
+"362","Heroico Cuerpo De Bomberos","H",5,1
+"363","Heroico Cuerpo De Bomberos","M",1,422
+"364","Heroico Cuerpo De Bomberos","M",2,10
+"365","Heroico Cuerpo De Bomberos","M",3,2
+"366","Heroico Cuerpo De Bomberos",NA,1,59
+"367","Heroico Cuerpo De Bomberos",NA,2,1
+"368","Instancia Ejecutora Del Sistema Integral De Derechos Humanos","H",1,1
+"369","Instancia Ejecutora Del Sistema Integral De Derechos Humanos","H",2,7
+"370","Instancia Ejecutora Del Sistema Integral De Derechos Humanos","H",5,1
+"371","Instancia Ejecutora Del Sistema Integral De Derechos Humanos","M",2,12
+"372","Instancia Ejecutora Del Sistema Integral De Derechos Humanos",NA,2,1
+"373","Instituto de Educación Media Superior","H",1,22
+"374","Instituto de Educación Media Superior","H",2,7
+"375","Instituto de Educación Media Superior","M",1,34
+"376","Instituto de Educación Media Superior","M",2,1
+"377","Instituto de Educación Media Superior",NA,1,2
+"378","Instituto De Estudios Superiores De La Ciudad De México ""Rosario Castellanos""","H",1,52
+"379","Instituto De Estudios Superiores De La Ciudad De México ""Rosario Castellanos""","H",2,66
+"380","Instituto De Estudios Superiores De La Ciudad De México ""Rosario Castellanos""","H",4,1
+"381","Instituto De Estudios Superiores De La Ciudad De México ""Rosario Castellanos""","M",1,64
+"382","Instituto De Estudios Superiores De La Ciudad De México ""Rosario Castellanos""","M",2,93
+"383","Instituto De Estudios Superiores De La Ciudad De México ""Rosario Castellanos""","M",3,3
+"384","Instituto De Estudios Superiores De La Ciudad De México ""Rosario Castellanos""","M",4,2
+"385","Instituto De Estudios Superiores De La Ciudad De México ""Rosario Castellanos""",NA,1,2
+"386","Instituto De Estudios Superiores De La Ciudad De México ""Rosario Castellanos""",NA,2,6
+"387","Instituto de La Juventud","H",1,32
+"388","Instituto de La Juventud","M",1,21
+"389","Instituto de La Juventud",NA,1,3
+"390","Instituto de las Personas con discapacidad de La Ciudad De México","H",1,3
+"391","Instituto de las Personas con discapacidad de La Ciudad De México","M",1,3
+"392","Instituto de las Personas con discapacidad de La Ciudad De México",NA,1,1
+"393","Instituto de Verificación Administrativa","H",1,1
+"394","Instituto de Verificación Administrativa","M",1,1
+"395","Instituto del Deporte","H",1,91
+"396","Instituto del Deporte","H",2,9
+"397","Instituto del Deporte","M",1,108
+"398","Instituto del Deporte","M",2,4
+"399","Instituto del Deporte",NA,1,4
+"400","Instituto para la Atención y Prevención de las Adicciones en La Ciudad De México","H",1,10
+"401","Instituto para la Atención y Prevención de las Adicciones en La Ciudad De México","H",2,22
+"402","Instituto para la Atención y Prevención de las Adicciones en La Ciudad De México","H",3,4
+"403","Instituto para la Atención y Prevención de las Adicciones en La Ciudad De México","H",4,1
+"404","Instituto para la Atención y Prevención de las Adicciones en La Ciudad De México","M",1,12
+"405","Instituto para la Atención y Prevención de las Adicciones en La Ciudad De México","M",2,17
+"406","Instituto para la Atención y Prevención de las Adicciones en La Ciudad De México","M",3,1
+"407","Instituto para la Atención y Prevención de las Adicciones en La Ciudad De México",NA,2,1
+"408","Instituto para la Atención y Prevención de las Adicciones en La Ciudad De México",NA,3,1
+"409","Jefatura de Gobierno","H",1,209
+"410","Jefatura de Gobierno","H",2,40
+"411","Jefatura de Gobierno","H",3,8
+"412","Jefatura de Gobierno","H",4,1
+"413","Jefatura de Gobierno","H",5,8
+"414","Jefatura de Gobierno","H",6,1
+"415","Jefatura de Gobierno","M",1,243
+"416","Jefatura de Gobierno","M",2,38
+"417","Jefatura de Gobierno","M",3,8
+"418","Jefatura de Gobierno","M",4,1
+"419","Jefatura de Gobierno","M",5,3
+"420","Jefatura de Gobierno","M",6,2
+"421","Jefatura de Gobierno",NA,1,21
+"422","Jefatura de Gobierno",NA,2,5
+"423","Jefatura de Gobierno",NA,6,1
+"424","Mecanismo de Protección Integral de Personas Defensoras de Derechos Humanos y Periodistas","H",1,1
+"425","Mecanismo de Protección Integral de Personas Defensoras de Derechos Humanos y Periodistas","H",2,2
+"426","Mecanismo de Protección Integral de Personas Defensoras de Derechos Humanos y Periodistas","H",3,2
+"427","Mecanismo de Protección Integral de Personas Defensoras de Derechos Humanos y Periodistas","M",1,3
+"428","Mecanismo de Protección Integral de Personas Defensoras de Derechos Humanos y Periodistas","M",2,5
+"429","Mecanismo de Protección Integral de Personas Defensoras de Derechos Humanos y Periodistas","M",3,1
+"430","Mecanismo de Protección Integral de Personas Defensoras de Derechos Humanos y Periodistas",NA,1,2
+"431","Mecanismo de Protección Integral de Personas Defensoras de Derechos Humanos y Periodistas",NA,5,1
+"432","Órgano Regulador de Transporte","H",1,143
+"433","Órgano Regulador de Transporte","H",2,24
+"434","Órgano Regulador de Transporte","H",3,2
+"435","Órgano Regulador de Transporte","H",4,3
+"436","Órgano Regulador de Transporte","M",1,84
+"437","Órgano Regulador de Transporte","M",2,8
+"438","Órgano Regulador de Transporte","M",5,1
+"439","Órgano Regulador de Transporte",NA,1,7
+"440","Órgano Regulador de Transporte",NA,2,3
+"441","Planta de Asfalto de la Ciudad De México","H",1,220
+"442","Planta de Asfalto de la Ciudad De México","H",2,7
+"443","Planta de Asfalto de la Ciudad De México","H",3,2
+"444","Planta de Asfalto de la Ciudad De México","M",1,64
+"445","Planta de Asfalto de la Ciudad De México","M",2,5
+"446","Planta de Asfalto de la Ciudad De México",NA,1,4
+"447","Planta de Asfalto de la Ciudad De México",NA,5,1
+"448","Procuraduría Ambiental Y Del Ordenamiento Territorial","H",1,8
+"449","Procuraduría Ambiental Y Del Ordenamiento Territorial","M",1,8
+"450","Procuraduría Social","H",1,102
+"451","Procuraduría Social","H",2,5
+"452","Procuraduría Social","M",1,89
+"453","Procuraduría Social","M",2,3
+"454","Procuraduría Social",NA,1,6
+"455","Secretaría de Administración y Finanzas","H",1,3062
+"456","Secretaría de Administración y Finanzas","H",2,543
+"457","Secretaría de Administración y Finanzas","H",3,55
+"458","Secretaría de Administración y Finanzas","H",4,23
+"459","Secretaría de Administración y Finanzas","H",5,23
+"460","Secretaría de Administración y Finanzas","H",6,2
+"461","Secretaría de Administración y Finanzas","M",1,3545
+"462","Secretaría de Administración y Finanzas","M",2,428
+"463","Secretaría de Administración y Finanzas","M",3,49
+"464","Secretaría de Administración y Finanzas","M",4,17
+"465","Secretaría de Administración y Finanzas","M",5,12
+"466","Secretaría de Administración y Finanzas","M",6,2
+"467","Secretaría de Administración y Finanzas",NA,1,157
+"468","Secretaría de Administración y Finanzas",NA,2,57
+"469","Secretaría de Administración y Finanzas",NA,3,10
+"470","Secretaría de Administración y Finanzas",NA,4,3
+"471","Secretaría de Administración y Finanzas",NA,5,2
+"472","Secretaría de Cultura","H",1,668
+"473","Secretaría de Cultura","H",2,74
+"474","Secretaría de Cultura","H",3,22
+"475","Secretaría de Cultura","H",4,2
+"476","Secretaría de Cultura","H",5,2
+"477","Secretaría de Cultura","M",1,525
+"478","Secretaría de Cultura","M",2,35
+"479","Secretaría de Cultura","M",3,8
+"480","Secretaría de Cultura","M",4,1
+"481","Secretaría de Cultura","M",5,1
+"482","Secretaría de Cultura",NA,1,50
+"483","Secretaría de Cultura",NA,2,25
+"484","Secretaría de Cultura",NA,3,3
+"485","Secretaría de Cultura",NA,4,1
+"486","Secretaría de Cultura",NA,5,1
+"487","Secretaría de Cultura",NA,6,1
+"488","Secretaría de Desarrollo Económico","H",1,263
+"489","Secretaría de Desarrollo Económico","H",2,16
+"490","Secretaría de Desarrollo Económico","H",3,8
+"491","Secretaría de Desarrollo Económico","H",4,4
+"492","Secretaría de Desarrollo Económico","H",5,2
+"493","Secretaría de Desarrollo Económico","M",1,233
+"494","Secretaría de Desarrollo Económico","M",2,23
+"495","Secretaría de Desarrollo Económico","M",3,3
+"496","Secretaría de Desarrollo Económico","M",4,4
+"497","Secretaría de Desarrollo Económico","M",5,2
+"498","Secretaría de Desarrollo Económico",NA,1,7
+"499","Secretaría de Desarrollo Económico",NA,2,1
+"500","Secretaría de Desarrollo Económico",NA,6,1
+"501","Secretaría de Desarrollo Urbano y Vivienda","H",1,270
+"502","Secretaría de Desarrollo Urbano y Vivienda","H",2,60
+"503","Secretaría de Desarrollo Urbano y Vivienda","H",3,7
+"504","Secretaría de Desarrollo Urbano y Vivienda","H",4,1
+"505","Secretaría de Desarrollo Urbano y Vivienda","H",5,2
+"506","Secretaría de Desarrollo Urbano y Vivienda","H",6,1
+"507","Secretaría de Desarrollo Urbano y Vivienda","M",1,330
+"508","Secretaría de Desarrollo Urbano y Vivienda","M",2,55
+"509","Secretaría de Desarrollo Urbano y Vivienda","M",3,6
+"510","Secretaría de Desarrollo Urbano y Vivienda",NA,1,16
+"511","Secretaría de Desarrollo Urbano y Vivienda",NA,2,3
+"512","Secretaría de Desarrollo Urbano y Vivienda",NA,3,1
+"513","Secretaría de Desarrollo Urbano y Vivienda",NA,4,1
+"514","Secretaría de Desarrollo Urbano y Vivienda",NA,5,1
+"515","Secretaría de Educación, Ciencia, Tecnología e Innovación","H",1,272
+"516","Secretaría de Educación, Ciencia, Tecnología e Innovación","H",2,176
+"517","Secretaría de Educación, Ciencia, Tecnología e Innovación","H",3,36
+"518","Secretaría de Educación, Ciencia, Tecnología e Innovación","H",4,5
+"519","Secretaría de Educación, Ciencia, Tecnología e Innovación","H",5,5
+"520","Secretaría de Educación, Ciencia, Tecnología e Innovación","H",6,1
+"521","Secretaría de Educación, Ciencia, Tecnología e Innovación","M",1,274
+"522","Secretaría de Educación, Ciencia, Tecnología e Innovación","M",2,157
+"523","Secretaría de Educación, Ciencia, Tecnología e Innovación","M",3,23
+"524","Secretaría de Educación, Ciencia, Tecnología e Innovación","M",4,1
+"525","Secretaría de Educación, Ciencia, Tecnología e Innovación","M",5,3
+"526","Secretaría de Educación, Ciencia, Tecnología e Innovación",NA,1,19
+"527","Secretaría de Educación, Ciencia, Tecnología e Innovación",NA,2,9
+"528","Secretaría de Educación, Ciencia, Tecnología e Innovación",NA,3,3
+"529","Secretaría de Educación, Ciencia, Tecnología e Innovación",NA,6,1
+"530","Secretaría de Gestión Integral de Riesgos y Protección Civil","H",1,142
+"531","Secretaría de Gestión Integral de Riesgos y Protección Civil","H",2,33
+"532","Secretaría de Gestión Integral de Riesgos y Protección Civil","H",3,8
+"533","Secretaría de Gestión Integral de Riesgos y Protección Civil","H",4,1
+"534","Secretaría de Gestión Integral de Riesgos y Protección Civil","H",5,3
+"535","Secretaría de Gestión Integral de Riesgos y Protección Civil","H",6,1
+"536","Secretaría de Gestión Integral de Riesgos y Protección Civil","M",1,108
+"537","Secretaría de Gestión Integral de Riesgos y Protección Civil","M",2,29
+"538","Secretaría de Gestión Integral de Riesgos y Protección Civil","M",3,4
+"539","Secretaría de Gestión Integral de Riesgos y Protección Civil","M",4,1
+"540","Secretaría de Gestión Integral de Riesgos y Protección Civil","M",6,1
+"541","Secretaría de Gestión Integral de Riesgos y Protección Civil",NA,1,5
+"542","Secretaría de Gestión Integral de Riesgos y Protección Civil",NA,2,3
+"543","Secretaría de Gestión Integral de Riesgos y Protección Civil",NA,5,1
+"544","Secretaría de Gobierno","H",1,4638
+"545","Secretaría de Gobierno","H",2,194
+"546","Secretaría de Gobierno","H",3,14
+"547","Secretaría de Gobierno","H",4,11
+"548","Secretaría de Gobierno","H",5,6
+"549","Secretaría de Gobierno","H",6,2
+"550","Secretaría de Gobierno","M",1,4183
+"551","Secretaría de Gobierno","M",2,121
+"552","Secretaría de Gobierno","M",3,13
+"553","Secretaría de Gobierno","M",4,1
+"554","Secretaría de Gobierno","M",5,2
+"555","Secretaría de Gobierno",NA,1,217
+"556","Secretaría de Gobierno",NA,2,6
+"557","Secretaría de Gobierno",NA,4,1
+"558","Secretaría de Gobierno",NA,6,1
+"559","Secretaría de Inclusión y Bienestar Social","H",1,1374
+"560","Secretaría de Inclusión y Bienestar Social","H",2,95
+"561","Secretaría de Inclusión y Bienestar Social","H",3,22
+"562","Secretaría de Inclusión y Bienestar Social","H",4,4
+"563","Secretaría de Inclusión y Bienestar Social","H",5,2
+"564","Secretaría de Inclusión y Bienestar Social","M",1,3258
+"565","Secretaría de Inclusión y Bienestar Social","M",2,186
+"566","Secretaría de Inclusión y Bienestar Social","M",3,10
+"567","Secretaría de Inclusión y Bienestar Social","M",4,3
+"568","Secretaría de Inclusión y Bienestar Social","M",5,1
+"569","Secretaría de Inclusión y Bienestar Social",NA,1,141
+"570","Secretaría de Inclusión y Bienestar Social",NA,2,10
+"571","Secretaría de Inclusión y Bienestar Social",NA,4,1
+"572","Secretaría de Inclusión y Bienestar Social",NA,6,1
+"573","Secretaria de la Contraloría General","H",1,188
+"574","Secretaria de la Contraloría General","H",2,115
+"575","Secretaria de la Contraloría General","H",3,32
+"576","Secretaria de la Contraloría General","H",4,1
+"577","Secretaria de la Contraloría General","H",5,2
+"578","Secretaria de la Contraloría General","H",6,1
+"579","Secretaria de la Contraloría General","M",1,247
+"580","Secretaria de la Contraloría General","M",2,128
+"581","Secretaria de la Contraloría General","M",3,21
+"582","Secretaria de la Contraloría General","M",4,1
+"583","Secretaria de la Contraloría General","M",5,1
+"584","Secretaria de la Contraloría General",NA,1,13
+"585","Secretaria de la Contraloría General",NA,2,6
+"586","Secretaria de la Contraloría General",NA,4,1
+"587","Secretaría de las Mujeres","H",1,79
+"588","Secretaría de las Mujeres","H",2,4
+"589","Secretaría de las Mujeres","H",3,1
+"590","Secretaría de las Mujeres","H",4,1
+"591","Secretaría de las Mujeres","M",1,559
+"592","Secretaría de las Mujeres","M",2,39
+"593","Secretaría de las Mujeres","M",3,9
+"594","Secretaría de las Mujeres","M",4,3
+"595","Secretaría de las Mujeres","M",5,1
+"596","Secretaría de las Mujeres","M",6,1
+"597","Secretaría de las Mujeres",NA,1,19
+"598","Secretaría de las Mujeres",NA,2,1
+"599","Secretaría de las Mujeres",NA,3,1
+"600","Secretaría de las Mujeres",NA,4,1
+"601","Secretaría de Movilidad","H",1,752
+"602","Secretaría de Movilidad","H",2,265
+"603","Secretaría de Movilidad","H",3,9
+"604","Secretaría de Movilidad","H",4,7
+"605","Secretaría de Movilidad","H",5,4
+"606","Secretaría de Movilidad","H",6,3
+"607","Secretaría de Movilidad","M",1,573
+"608","Secretaría de Movilidad","M",2,84
+"609","Secretaría de Movilidad","M",3,9
+"610","Secretaría de Movilidad","M",4,1
+"611","Secretaría de Movilidad","M",5,3
+"612","Secretaría de Movilidad",NA,1,30
+"613","Secretaría de Movilidad",NA,2,5
+"614","Secretaría de Movilidad",NA,3,1
+"615","Secretaría de Movilidad",NA,5,1
+"616","Secretaría de Obras y Servicios","H",1,2854
+"617","Secretaría de Obras y Servicios","H",2,227
+"618","Secretaría de Obras y Servicios","H",3,27
+"619","Secretaría de Obras y Servicios","H",4,3
+"620","Secretaría de Obras y Servicios","H",5,5
+"621","Secretaría de Obras y Servicios","H",6,1
+"622","Secretaría de Obras y Servicios","M",1,1879
+"623","Secretaría de Obras y Servicios","M",2,110
+"624","Secretaría de Obras y Servicios","M",3,8
+"625","Secretaría de Obras y Servicios","M",4,2
+"626","Secretaría de Obras y Servicios","M",5,3
+"627","Secretaría de Obras y Servicios",NA,1,112
+"628","Secretaría de Obras y Servicios",NA,2,8
+"629","Secretaría de Obras y Servicios",NA,3,1
+"630","Secretaría De Pueblos Y Barrios Originarios Y Comunidades Indígenas Residentes","H",1,44
+"631","Secretaría De Pueblos Y Barrios Originarios Y Comunidades Indígenas Residentes","H",2,13
+"632","Secretaría De Pueblos Y Barrios Originarios Y Comunidades Indígenas Residentes","H",3,2
+"633","Secretaría De Pueblos Y Barrios Originarios Y Comunidades Indígenas Residentes","H",4,2
+"634","Secretaría De Pueblos Y Barrios Originarios Y Comunidades Indígenas Residentes","M",1,51
+"635","Secretaría De Pueblos Y Barrios Originarios Y Comunidades Indígenas Residentes","M",2,12
+"636","Secretaría De Pueblos Y Barrios Originarios Y Comunidades Indígenas Residentes","M",4,2
+"637","Secretaría De Pueblos Y Barrios Originarios Y Comunidades Indígenas Residentes","M",6,1
+"638","Secretaría De Pueblos Y Barrios Originarios Y Comunidades Indígenas Residentes",NA,1,2
+"639","Secretaría De Pueblos Y Barrios Originarios Y Comunidades Indígenas Residentes",NA,2,6
+"640","Secretaría De Pueblos Y Barrios Originarios Y Comunidades Indígenas Residentes",NA,3,1
+"641","Secretaría de Salud","H",1,6287
+"642","Secretaría de Salud","H",2,2285
+"643","Secretaría de Salud","H",3,1411
+"644","Secretaría de Salud","H",4,1
+"645","Secretaría de Salud","H",5,2
+"646","Secretaría de Salud","H",6,1
+"647","Secretaría de Salud","M",1,7612
+"648","Secretaría de Salud","M",2,6146
+"649","Secretaría de Salud","M",3,876
+"650","Secretaría de Salud","M",4,3
+"651","Secretaría de Salud","M",6,1
+"652","Secretaría de Salud",NA,1,406
+"653","Secretaría de Salud",NA,2,332
+"654","Secretaría de Salud",NA,3,68
+"655","Secretaría de Seguridad Ciudadana","H",1,29391
+"656","Secretaría de Seguridad Ciudadana","H",2,1689
+"657","Secretaría de Seguridad Ciudadana","H",3,149
+"658","Secretaría de Seguridad Ciudadana","H",4,12
+"659","Secretaría de Seguridad Ciudadana","H",5,43
+"660","Secretaría de Seguridad Ciudadana","H",6,6
+"661","Secretaría de Seguridad Ciudadana","M",1,11478
+"662","Secretaría de Seguridad Ciudadana","M",2,696
+"663","Secretaría de Seguridad Ciudadana","M",3,39
+"664","Secretaría de Seguridad Ciudadana","M",4,7
+"665","Secretaría de Seguridad Ciudadana","M",5,9
+"666","Secretaría de Seguridad Ciudadana","M",6,1
+"667","Secretaría de Seguridad Ciudadana",NA,1,1187
+"668","Secretaría de Seguridad Ciudadana",NA,2,40
+"669","Secretaría de Seguridad Ciudadana",NA,3,7
+"670","Secretaría de Seguridad Ciudadana",NA,5,1
+"671","Secretaría de Turismo","H",1,43
+"672","Secretaría de Turismo","H",2,16
+"673","Secretaría de Turismo","H",3,5
+"674","Secretaría de Turismo","H",4,2
+"675","Secretaría de Turismo","H",5,3
+"676","Secretaría de Turismo","H",6,1
+"677","Secretaría de Turismo","M",1,61
+"678","Secretaría de Turismo","M",2,18
+"679","Secretaría de Turismo","M",3,3
+"680","Secretaría de Turismo","M",4,1
+"681","Secretaría de Turismo","M",5,1
+"682","Secretaría de Turismo",NA,1,3
+"683","Secretaría de Turismo",NA,3,1
+"684","Secretaría del Medio Ambiente","H",1,2012
+"685","Secretaría del Medio Ambiente","H",2,155
+"686","Secretaría del Medio Ambiente","H",3,21
+"687","Secretaría del Medio Ambiente","H",4,4
+"688","Secretaría del Medio Ambiente","H",5,4
+"689","Secretaría del Medio Ambiente","M",1,1361
+"690","Secretaría del Medio Ambiente","M",2,115
+"691","Secretaría del Medio Ambiente","M",3,14
+"692","Secretaría del Medio Ambiente","M",4,2
+"693","Secretaría del Medio Ambiente","M",5,3
+"694","Secretaría del Medio Ambiente","M",6,1
+"695","Secretaría del Medio Ambiente",NA,1,83
+"696","Secretaría del Medio Ambiente",NA,2,8
+"697","Secretaría del Medio Ambiente",NA,3,1
+"698","Secretaría del Trabajo y Fomento al Empleo","H",1,207
+"699","Secretaría del Trabajo y Fomento al Empleo","H",2,13
+"700","Secretaría del Trabajo y Fomento al Empleo","H",3,7
+"701","Secretaría del Trabajo y Fomento al Empleo","H",4,2
+"702","Secretaría del Trabajo y Fomento al Empleo","H",5,2
+"703","Secretaría del Trabajo y Fomento al Empleo","M",1,315
+"704","Secretaría del Trabajo y Fomento al Empleo","M",2,30
+"705","Secretaría del Trabajo y Fomento al Empleo","M",3,6
+"706","Secretaría del Trabajo y Fomento al Empleo","M",4,2
+"707","Secretaría del Trabajo y Fomento al Empleo","M",5,2
+"708","Secretaría del Trabajo y Fomento al Empleo","M",6,1
+"709","Secretaría del Trabajo y Fomento al Empleo",NA,1,14
+"710","Secretaría del Trabajo y Fomento al Empleo",NA,2,1
+"711","Sistema de Aguas de La Ciudad De México","H",1,9214
+"712","Sistema de Aguas de La Ciudad De México","H",2,168
+"713","Sistema de Aguas de La Ciudad De México","H",3,19
+"714","Sistema de Aguas de La Ciudad De México","H",4,2
+"715","Sistema de Aguas de La Ciudad De México","H",5,3
+"716","Sistema de Aguas de La Ciudad De México","H",6,1
+"717","Sistema de Aguas de La Ciudad De México","M",1,2515
+"718","Sistema de Aguas de La Ciudad De México","M",2,48
+"719","Sistema de Aguas de La Ciudad De México","M",3,2
+"720","Sistema de Aguas de La Ciudad De México","M",5,2
+"721","Sistema de Aguas de La Ciudad De México",NA,1,203
+"722","Sistema de Aguas de La Ciudad De México",NA,2,3
+"723","Sistema de Aguas de La Ciudad De México",NA,3,1
+"724","Sistema Público De Radiodifusión De La Ciudad De México","H",1,27
+"725","Sistema Público De Radiodifusión De La Ciudad De México","H",2,8
+"726","Sistema Público De Radiodifusión De La Ciudad De México","H",3,1
+"727","Sistema Público De Radiodifusión De La Ciudad De México","H",5,1
+"728","Sistema Público De Radiodifusión De La Ciudad De México","M",1,17
+"729","Sistema Público De Radiodifusión De La Ciudad De México","M",2,3
+"730","Sistema Público De Radiodifusión De La Ciudad De México","M",3,2
+"731","Sistema Público De Radiodifusión De La Ciudad De México",NA,1,2
+"732","Universidad de la Policía De La Ciudad De México","H",1,196
+"733","Universidad de la Policía De La Ciudad De México","H",2,24
+"734","Universidad de la Policía De La Ciudad De México","H",3,2
+"735","Universidad de la Policía De La Ciudad De México","H",5,1
+"736","Universidad de la Policía De La Ciudad De México","M",1,146
+"737","Universidad de la Policía De La Ciudad De México","M",2,8
+"738","Universidad de la Policía De La Ciudad De México","M",3,2
+"739","Universidad de la Policía De La Ciudad De México",NA,1,5
+"740","Universidad de la Policía De La Ciudad De México",NA,2,1
+"741","Universidad de la Salud","H",1,4
+"742","Universidad de la Salud","H",2,15
+"743","Universidad de la Salud","H",3,2
+"744","Universidad de la Salud","H",4,1
+"745","Universidad de la Salud","H",5,1
+"746","Universidad de la Salud","M",1,6
+"747","Universidad de la Salud","M",2,8
+"748","Universidad de la Salud","M",3,5
+"749","Universidad de la Salud","M",4,3
+"750","Universidad de la Salud",NA,3,1

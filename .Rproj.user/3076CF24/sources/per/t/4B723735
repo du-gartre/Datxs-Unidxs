@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1633640673610.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4B723735",
+    "lastKnownWriteTime" : 3038287259198753325,
+    "last_content_update" : 1633640673610,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "18B67FB9",
+        "caption" : "df_agosto_sex",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=df_agosto_sex&cache_key=18B67FB9",
+        "displayedObservations" : "252414",
+        "environment" : "",
+        "expression" : "df_agosto_sex",
+        "object" : "df_agosto_sex",
+        "preview" : "0",
+        "totalObservations" : "252414",
+        "variables" : "20"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

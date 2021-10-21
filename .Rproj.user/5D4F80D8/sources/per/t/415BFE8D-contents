@@ -1,0 +1,81 @@
+---
+title: "Niveles de salario e inequidad entre sexos"
+author: "Datos Unidxs"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: html_document
+---
+
+```{r global-options, include=FALSE}
+rm(list=ls())
+knitr::opts_chunk$set(echo=FALSE, warning=FALSE, message=FALSE)
+```
+
+```{r warning=FALSE}
+library(dplyr)
+library(ggplot2)
+library(plotly)
+```
+
+```{r}
+df <- read.csv("C:/Users/52443/CIDE/Datatón - General/R_datatón/tables/analysis_dif_w.csv", encoding = "UTF-8")
+```
+
+```{r}
+names(df)
+```
+
+```{r}
+df <- df %>% mutate(quadrant = case_when(
+                                         z_score_b == 1 & cohensd_b==1 ~ "1",
+                                         z_score_b == 0 & cohensd_b==1 ~ "2",
+                                         z_score_b == 0 & cohensd_b==0 ~ "3",
+                                         z_score_b == 1 & cohensd_b==0 ~ "4"
+                                ))
+```
+
+
+```{r echo=FALSE}
+fig1 <- df %>% 
+  mutate(quadrant = case_when(z_score_b == 1 & cohensd_b==1 ~ "1",
+                                         z_score_b == 0 & cohensd_b==1 ~ "2",
+                                         z_score_b == 0 & cohensd_b==0 ~ "3",
+                                         z_score_b == 1 & cohensd_b==0 ~ "4")) %>% 
+  ggplot(aes(x = z_score, y = cohensd, color = quadrant)) +
+  #geom_text(aes(label=X.U.FEFF.desc_unidad_responsable),
+              #position = position_jitter(width=2, height=0.005)) +
+  geom_vline(xintercept = 0) + # plot vertical line
+  geom_hline(yintercept = 0) + # plot horizontal line
+  geom_point()
+
+fig1
+```
+
+```{r}
+fig <- plot_ly(df, x = ~z_score, y = ~cohensd, text = ~X.U.FEFF.desc_unidad_responsable, type = 'scatter', mode = 'markers', color = ~tot, colors = 'Reds',
+        marker = list(size = ~tot, opacity = 0.5))
+
+fig <- fig %>% layout(title = 'Gender Gap in Earnings per University',
+                     xaxis = list(showgrid = FALSE),
+                     yaxis = list(showgrid = FALSE))
+
+fig
+```
+
+                                            
+
+
+```{r}
+
+data <- read.csv("https://raw.githubusercontent.com/plotly/datasets/master/school_earnings.csv")
+
+fig <- plot_ly(data, x = ~Women, y = ~Men, text = ~School, type = 'scatter', mode = 'markers', color = ~Gap, colors = 'Reds',
+        marker = list(size = ~Gap, opacity = 0.5))
+fig <- fig %>% layout(title = 'Gender Gap in Earnings per University',
+         xaxis = list(showgrid = FALSE),
+         yaxis = list(showgrid = FALSE))
+
+fig
+```
+
+
+

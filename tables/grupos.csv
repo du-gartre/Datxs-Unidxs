@@ -1,0 +1,75 @@
+desc_unidad_responsable,H,M,diff,prom_glob,mean_d,sd,ineq,ineq_d
+Agencia Digital de Innovación Pública (ADIP),19911.84,15653.74,4258.10,17659.24,1,14029.01,0.30,1
+Agencia de Atención Animal De La Ciudad De México,21487.03,16981.50,4505.53,18723.64,1,10109.09,0.45,1
+Agencia de Protección Sanitaria,24854.59,24654.53,200.06,24761.09,1,13069.67,0.02,0
+Autoridad Del Centro Histórico,18827.77,12741.07,6086.70,15994.31,1,14462.46,0.42,1
+"Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano (C5)",18281.88,14527.51,3754.37,16292.51,1,11625.59,0.32,1
+Comisión de Búsqueda de Personas de La Ciudad De México,41630.00,33324.60,8305.40,36439.13,1,16011.26,0.52,1
+Consejo de Evaluación Del Desarrollo Social,24089.94,24649.00,-559.06,24317.70,1,6440.12,-0.09,0
+Escuela de Administración Pública,18939.30,18898.50,40.80,18918.90,1,8088.90,0.01,0
+Fideicomiso Educación Garantizada,16192.25,16656.03,-463.77,16466.81,1,12642.72,-0.04,0
+Fideicomiso Museo Del Estanquillo,33562.60,19909.50,13653.10,27494.56,1,14952.39,0.91,1
+Fideicomiso Para La Promoción Y Desarrollo Del Cine Mexicano,58630.50,38024.00,20606.50,48327.25,1,22609.16,0.91,1
+Fideicomiso para la Reconstrucción Integral de la Ciudad de México,38844.33,35248.00,3596.33,37405.80,1,17468.90,0.21,1
+Fiscalía General De Justicia,21131.08,19235.19,1895.89,20303.23,1,11430.36,0.17,1
+Fondo de desarrollo económico del distrito federal,17534.80,16807.25,727.55,17211.44,1,3922.32,0.19,1
+Fondo para la Atención y Apoyo a las Víctimas del Delito,21900.67,13195.79,8704.88,17036.18,1,20235.34,0.43,1
+Instancia Ejecutora Del Sistema Integral De Derechos Humanos,31571.00,25708.00,5863.00,28220.71,1,15879.80,0.37,1
+"Instituto De Estudios Superiores De La Ciudad De México ""Rosario Castellanos""",21653.81,22435.26,-781.45,22104.32,1,8571.94,-0.09,0
+Instituto de Verificación Administrativa,18700.00,18700.00,0.00,18700.00,1,0.00,,0
+Instituto para la Atención y Prevención de las Adicciones en La Ciudad De México,27661.22,22555.90,5105.32,25375.25,1,13749.03,0.37,1
+Jefatura de Gobierno,18184.68,16230.79,1953.90,17159.06,1,16695.37,0.12,0
+Mecanismo de Protección Integral de Personas Defensoras de Derechos Humanos y Periodistas,32044.00,23709.33,8334.67,26686.00,1,8800.99,0.95,1
+Secretaria de la Contraloría General,21784.79,18746.34,3038.45,20143.94,1,14107.77,0.22,1
+Secretaría De Pueblos Y Barrios Originarios Y Comunidades Indígenas Residentes,17824.89,17445.80,379.08,17627.88,1,16130.31,0.02,0
+"Secretaría de Educación, Ciencia, Tecnología e Innovación",19444.12,18000.74,1443.38,18750.45,1,13759.52,0.10,0
+Secretaría de Gestión Integral de Riesgos y Protección Civil,17554.69,16937.01,617.67,17287.84,1,13443.21,0.05,0
+Secretaría de Salud,20110.97,19660.54,450.42,19843.22,1,10990.34,0.04,0
+Secretaría de Turismo,23943.99,16463.17,7480.82,19863.54,1,20306.84,0.37,1
+Sistema Público De Radiodifusión De La Ciudad De México,17208.27,15971.77,1236.50,16747.20,1,13212.21,0.09,0
+Universidad de la Salud,35061.52,37731.23,-2669.71,36366.71,1,17226.37,-0.15,0
+Alcaldía Azcapotzalco,8437.23,8532.50,-95.27,8477.42,0,6831.76,-0.01,0
+Alcaldía Benito Juárez,8733.21,9204.64,-471.43,8911.99,0,6537.09,-0.07,0
+Alcaldía Coyoacán,8143.01,8183.34,-40.32,8159.48,0,6571.64,-0.01,0
+Alcaldía Cuajimalpa De Morelos,9112.22,8362.40,749.82,8758.20,0,6423.97,0.12,0
+Alcaldía Cuauhtémoc,8613.34,8838.96,-225.61,8707.20,0,5773.89,-0.04,0
+Alcaldía Gustavo A. Madero,8621.94,8509.74,112.21,8574.26,0,6516.33,0.02,0
+Alcaldía Iztacalco,8752.96,8790.43,-37.47,8768.99,0,6209.87,-0.01,0
+Alcaldía Iztapalapa,7782.20,7673.55,108.66,7735.74,0,5529.11,0.02,0
+Alcaldía La Magdalena Contreras,8494.48,7963.42,531.06,8262.28,0,6956.27,0.08,0
+Alcaldía Miguel Hidalgo,8930.79,9394.98,-464.19,9100.98,0,7585.80,-0.06,0
+Alcaldía Milpa Alta,8208.68,7731.73,476.94,8004.40,0,6513.17,0.07,0
+Alcaldía Tlalpan,8483.49,8915.00,-431.51,8660.03,0,7383.82,-0.06,0
+Alcaldía Tláhuac,8838.95,8246.94,592.01,8560.10,0,6521.41,0.09,0
+Alcaldía Venustiano Carranza,8280.75,8020.45,260.30,8165.26,0,5753.49,0.05,0
+Alcaldía Xochimilco,7926.19,7946.29,-20.10,7934.15,0,6160.38,0.00,0
+Alcaldía Álvaro Obregón,8315.33,8699.54,-384.21,8464.39,0,7248.23,-0.05,0
+Caja de previsión de la policía auxiliar,16768.63,12909.03,3859.60,14895.59,0,11869.65,0.33,1
+Caja de previsión de la policía preventiva,12104.29,12816.50,-712.21,12363.27,0,2288.24,-0.31,0
+Caja de previsión para trabajadores a lista de raya,9954.15,7381.65,2572.50,8770.80,0,4000.16,0.64,1
+Consejería Jurídica y De Servicios Legales,14709.92,13604.68,1105.25,14120.39,0,7774.88,0.14,1
+Consejo Para Prevenir Y Eliminar La Discriminación,9626.00,11129.00,-1503.00,10127.00,0,1735.51,-0.87,0
+Fideicomiso Museo De Arte Popular Mexicano,14171.03,12821.71,1349.31,13706.51,0,8768.71,0.15,1
+Heroico Cuerpo De Bomberos,15473.08,14647.30,825.79,15310.18,0,3694.99,0.22,1
+Instituto de Educación Media Superior,16789.76,14332.97,2456.79,15446.20,0,6236.53,0.39,1
+Instituto de La Juventud,9877.44,9762.19,115.25,9831.77,0,2679.62,0.04,0
+Instituto de las Personas con discapacidad de La Ciudad De México,9991.67,9888.67,103.00,9940.17,0,2037.98,0.05,0
+Instituto del Deporte,10061.49,8509.50,1551.99,9241.57,0,5174.14,0.30,1
+Planta de Asfalto de la Ciudad De México,12121.10,11307.43,813.67,11932.70,0,4994.55,0.16,1
+Procuraduría Ambiental Y Del Ordenamiento Territorial,9422.38,9085.25,337.13,9253.81,0,2240.27,0.15,1
+Procuraduría Social,11093.88,11093.33,0.55,11093.62,0,3849.64,0.00,0
+Secretaría de Administración y Finanzas,14219.77,12784.08,1435.69,13470.01,0,10658.26,0.13,0
+Secretaría de Cultura,13115.58,11550.11,1565.48,12448.68,0,9480.24,0.17,1
+Secretaría de Desarrollo Económico,12465.05,12453.72,11.33,12459.67,0,13385.71,0.00,0
+Secretaría de Desarrollo Urbano y Vivienda,15012.17,12563.33,2448.84,13704.11,0,10244.25,0.24,1
+Secretaría de Gobierno,13179.25,12154.73,1024.51,12697.39,0,5743.44,0.18,1
+Secretaría de Inclusión y Bienestar Social,12449.48,12198.74,250.74,12274.49,0,6143.86,0.04,0
+Secretaría de Movilidad,15251.53,13353.59,1897.93,14507.89,0,11149.74,0.17,1
+Secretaría de Obras y Servicios,10369.89,9281.98,1087.91,9944.42,0,7920.49,0.14,0
+Secretaría de Seguridad Ciudadana,15415.25,14524.87,890.38,15165.03,0,5445.18,0.16,1
+Secretaría de las Mujeres,13094.52,14079.81,-985.30,13959.66,0,9249.48,-0.11,0
+Secretaría del Medio Ambiente,11012.18,10943.50,68.68,10984.35,0,8606.59,0.01,0
+Secretaría del Trabajo y Fomento al Empleo,13154.40,12829.31,325.09,12957.24,0,12645.16,0.03,0
+Sistema de Aguas de La Ciudad De México,9465.44,9275.62,189.82,9424.74,0,4701.14,0.04,0
+Universidad de la Policía De La Ciudad De México,12420.16,10284.77,2135.39,11541.21,0,8746.53,0.24,1
+Órgano Regulador de Transporte,13265.16,11394.38,1870.79,12608.62,0,11140.47,0.17,1

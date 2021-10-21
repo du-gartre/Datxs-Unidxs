@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1633640131901.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2058578400",
+    "id" : "E7590592",
+    "lastKnownWriteTime" : 1633643027,
+    "last_content_update" : 1633643027174,
+    "path" : "C:/Users/David/OneDrive - CIDE/General/R_datatón/R/02 - Income_sex_analysis.R",
+    "project_path" : "R/02 - Income_sex_analysis.R",
+    "properties" : {
+        "cursorPosition" : "49,19",
+        "scrollLine" : "43",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
