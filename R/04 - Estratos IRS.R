@@ -34,6 +34,8 @@ l_strata <- strata.cumrootf(x = df_IRS_cdmx$Índice.de.rezago.social,
 # Creamos una nueva columna con los estratos
 df_IRS_cdmx$estrato <- l_strata$stratumID
 
+str(df_IRS_cdmx)
+
 # # Ver los estratos creados
 # df_IRS_cdmx %>% 
 #     select(Municipio, estrato, Índice.de.rezago.social) %>% 
