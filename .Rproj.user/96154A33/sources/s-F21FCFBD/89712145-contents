@@ -3,15 +3,14 @@
 # 01.1 Clasificación de sexos por servidorx públicx
 #
 
-#'  ESTA VERSION TIENE UN PASO MAS PARA CLASIFICAR EL SEXO
-#'  si no se clasifica el primer nombre en M,H o unisex, usa el segundo nombre para clasificar
-#'  
-#'  
-#' Usaremos un diccionario creado por nosotros para asignar el sexo de los servidores públicos
-#' utilizando su nombre como criterio para elegir el sexo.
+#' Usaremos un diccionario creado por nosotros para asignar el sexo de lxs 
+#' servidorxs públicxs utilizando su primer nombre como criterio para elegir 
+#' el sexo. si no se clasifica el primer nombre en M,H o unisex, 
+#' usa el segundo nombre para clasificar
 #' 
-#' El diccionario se creó al clasificar manualmente los nombres más repetidos, de tal manera que
-#' se pueda clasificar más del 90% de los servidores públicos a partir de su nombre
+#' El diccionario lo creamos al clasificar manualmente los nombres más repetidos,
+#' de tal manera que se pueda clasificar más del 90% de los servidores públicos 
+#' a partir de su nombre
 #' 
 #' Hay algunos nombres que clasificamos como UNISEX, es decir que se usan tanto para hombres como para mujeres
 #'  - Para las personas que tienen un primer nombre unisex, pero tienen 2do nombre, se usará el 2do nombre
@@ -34,7 +33,7 @@ library(tidyverse)
 df_agosto <- read.csv("./data-raw/2021_08agosto_base_remuneraciones.csv")
 
 # Diccionario para asignar sexo por el nombre de los servidores públicos
-df_dicc <- read.csv("./data-raw/base_nombres_sexo.csv")
+df_dicc <- read.csv("./data/base_nombres_sexo.csv")
 
 
 #*****************************************************************************
@@ -116,12 +115,6 @@ df_agosto_sex <- df_agosto2 %>%
 #     arrange(N1, N2) %>% 
 #     View()
 
-
-sum(!(is.na(df_agosto_sex$sex)))
-
-
-
-df_agosto_sex
 
 #*****************************************************************************
 # Guardar base con clasificación ------------------------------------------

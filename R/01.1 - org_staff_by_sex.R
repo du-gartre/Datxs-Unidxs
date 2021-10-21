@@ -1,12 +1,29 @@
 
 
+#' 01.1 org_staff_by_sex
+#' 
+#' En este código agrupamos la información para observar el número de hombres
+#' y mujeres que están en distintos niveles de sueldo dentro de cada una de
+#' las dependencias disponibles en la base de remuneraciones de lxs servidorxs 
+#' públicxs de la CDMX en agosto de 2021.
+
+#*****************************************************************************
+# 1. Activar librerías ---------------------------------------------------------------
+#*****************************************************************************
 library(tidyverse)
+library(magrittr)
 
 
+#*****************************************************************************
+# 2. Importar datos -------------------------------------------------------------
+#*****************************************************************************
 # Base de sueldos de servidores públicos para agosto de 2021
 df_agosto_sex <- read.csv(file = "./data/base_clasificada.csv", 
                           encoding = "UTF-8", row.names = "X")
 
+#*****************************************************************************
+# 3. Manipular base de datos ------------------------------------
+#*****************************************************************************
 
 # Creamos categorías de ingreso
 # las categorías van de rangos de 25k en 25k
@@ -39,7 +56,7 @@ df_wide <- spread(data = df_personal_sex_orgs,
 # Crear base completa -----------------------------------------------------
 #*****************************************************************************
 
-library(magrittr)
+
 v_nom_orgs <- unique(df_wide$DESC_UNIDAD_RESPONSABLE)
 n_orgs <- length(v_nom_orgs)
 
@@ -58,6 +75,10 @@ df_niv_wage_sex <- merge(x = df_base,
 
 
 str(df_niv_wage_sex)
-    
+
+#*****************************************************************************
+# Guardar base ------------------------------------------
+#*****************************************************************************
+
 # Guardamos CSV
 write.csv(x = df_niv_wage_sex, file = "data/df_org_sex_niv_sueldo.csv", fileEncoding = "UTF-8")

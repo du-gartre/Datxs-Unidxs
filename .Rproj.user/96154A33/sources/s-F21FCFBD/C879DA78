@@ -1,26 +1,26 @@
 {
-    "id": "3FCD6167",
-    "path": "~/GitHub/Datxs-Unidx/R/02.1 - Income_sex_analysis.R",
-    "project_path": "R/02.1 - Income_sex_analysis.R",
+    "id": "C879DA78",
+    "path": "~/GitHub/Datxs-Unidx/R/01.1 - org_staff_by_sex.R",
+    "project_path": "R/01.1 - org_staff_by_sex.R",
     "type": "r_source",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1634529500340.0,
+    "created": 1634793776274.0,
     "source_on_save": false,
-    "relative_order": 7,
+    "relative_order": 3,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "173,0",
-        "scrollLine": "0"
+        "cursorPosition": "52,54",
+        "scrollLine": "35"
     },
     "folds": "",
-    "lastKnownWriteTime": 1634524501,
+    "lastKnownWriteTime": 1634795121,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1634524501,
+    "last_content_update": 1634795121883,
     "read_only": false,
     "read_only_alternatives": []
 }
