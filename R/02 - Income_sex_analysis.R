@@ -72,9 +72,9 @@ df_clasif <- df_agosto_sex2 %>%
 df_niv_sex <- spread(data = df_clasif, 
                   key = "sex" ,
                   value = "n()") %>% 
-    replace(is.na(.), 0) %>% 
-    mutate(total = rowSums(across(where(is.numeric)))) %>% 
-    mutate(niv_sueldo = as.factor(niv_sueldo))
+    replace(is.na(.), 0) %>%
+    mutate(niv_sueldo = as.factor(niv_sueldo)) %>% 
+    mutate(total = rowSums(across(where(is.numeric))))    
 
 # Tabla con el porcentaje de hombres, mujeres y no_id por nivel de sueldo
 df_perc_sex <- df_niv_sex %>% 

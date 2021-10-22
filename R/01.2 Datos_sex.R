@@ -53,7 +53,8 @@ mean(df_agosto_sex2$SUELDO_TABULAR_BRUTO)
 df_w_mean_sex <- df_agosto_sex2 %>% 
     group_by(sex) %>% 
     summarise(
-        mean(SUELDO_TABULAR_BRUTO)
+        mean(SUELDO_TABULAR_BRUTO),
+        sd(SUELDO_TABULAR_BRUTO)
     ) %>% 
     as.data.frame()
 
